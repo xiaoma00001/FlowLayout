@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.zkx.flowlayout.MainActivity">
+
+    <com.zkx.flowlayout.FlowLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            style="@style/text_flag_01"
+            android:text="heloo"/>
+        <TextView
+            style="@style/text_flag_01"
+            android:text="傻逼"/>
+        <TextView
+            style="@style/text_flag_01"
+            android:text="o"/>
+        <TextView
+            style="@style/text_flag_01"
+            android:text="heloo"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="verrrrrrrrrrrrrrrloo"/>
+        <TextView
+            style="@style/text_flag_01"
+            android:text="儿子"/>
+        <TextView
+            style="@style/text_flag_01"
+            android:text="oo"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="h哈哈oo"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="verrrr小伙rrloo"/>
+        <TextView
+            style="@style/text_flag_01"
+            android:text="儿子"/>
+        <TextView
+            style="@style/text_flag_01"
+            android:text="大e3f家"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="尼玛码"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="呵呵呵"/>
+
+        <TextView
+            style="@style/text_flag_01"
+            android:text="嘻嘻嘻嘻feeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeewttgvvvcetwtccc"/>
+
+
+    </com.zkx.flowlayout.FlowLayout>
+
+</LinearLayout>
